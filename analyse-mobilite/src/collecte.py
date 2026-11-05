@@ -1,0 +1,1 @@
+"""Module collecte : à implémenter."""
