@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Clés API et configurations privées
+.env
+.env.*
+
+# Données et résultats générés
+data/
+resultats/
+output/
+
+# Fichiers temporaires
+.pytest_cache/
