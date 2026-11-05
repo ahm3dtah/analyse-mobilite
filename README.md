@@ -1,6 +1,6 @@
 # Analyse des modalités de mobilité
 
-Projet d'imagerie numérique (Université Clermont Auvergne, 2026-2027).
+Projet d'imagerie numérique (Polytech, 2026-2027).
 
 ## Objectif
 Télécharger automatiquement les images Mapillary dans un rayon d'environ 200 m autour de coordonnées GPS, sélectionner les scènes de circulation, détecter les piétons, vélos, motos, voitures, bus et camions, puis exporter des résultats CSV et des graphiques comparatifs.
